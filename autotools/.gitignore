@@ -1,0 +1,14 @@
+Makefile.in
+aclocal.m4
+autpm4te.cache/
+config.h.in
+config/
+configure
+Makefile
+config.h
+config.status
+libtool
+m4/
+stamp-h1
+.deps
+.dirstamp/
